@@ -1,0 +1,23 @@
+*********
+
+
+
+
+
+
+
+
+
+
+-npm i bcrypt pour chiffre password
+-bodyparser bech ta9ra données mil form  w tkamil les etapes ili ba3id
+-.then heki titsama promise ya3ni ba3id masar heka t3mil then
+-marche ili taba3neh anou  fil model in7ot strucure de data w zeda logique chnwa hajet ili bech ta3mlhom al data w ba3id in3awit lil function hedi fi controller
+w ba3id fi router in3awit il mawjoud fi controlle w ba3id app.js in3awit lil router
+-cookie tsajil haja fil browser (engenrale k tsakir page titna7a)
+-npm express-session hedi bech nit3aml m3a session a partir mil  express
+-npm i connect-mngodb-session  (conenct entre mondb w session)
+-flash session sabineha w hedi ista3mlneha bech affichiw error hawka insajil feha error w affichi w ki tista3mlha mara titfasa5
+-express validation w ista3mlna chek bes test mrgl w le  heda ista3mlneh bech valid input ili yiktib fihom user 
+hawka 5idma fil file auth.router.js w auth.controller.js
+
